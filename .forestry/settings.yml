@@ -5,17 +5,17 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/homepage
-  label: Contents
-  create: all
-  match: "**/*"
-- type: directory
   path: content
-  label: HomePage
+  label: Inicio
   create: documents
   match: "*"
   templates:
   - home-index
+- type: directory
+  path: content/homepage
+  label: Contents
+  create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

@@ -1,0 +1,13 @@
+---
+label: Home Index
+hide_body: true
+fields:
+- type: file
+  name: header_image
+  label: header_image
+- type: text
+  name: header_headline
+  label: header_headline
+- type: text
+  name: header_subheadline
+  label: header_subheadline

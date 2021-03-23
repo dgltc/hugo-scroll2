@@ -1,0 +1,7 @@
+---
+label: Inicio
+hide_body: true
+fields:
+- type: boolean
+  name: headless
+  label: headless

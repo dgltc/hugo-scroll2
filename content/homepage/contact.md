@@ -8,4 +8,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}} [+49 1111 555555](tel:+491111555555)
 
-Let us get in touch! 
+Let us get in touch!  

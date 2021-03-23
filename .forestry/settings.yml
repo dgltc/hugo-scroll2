@@ -13,7 +13,7 @@ sections:
   path: content
   label: HomePage
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - home-index
 upload_dir: static/uploads

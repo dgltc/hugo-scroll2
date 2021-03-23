@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content
   label: HomePage
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - home-index

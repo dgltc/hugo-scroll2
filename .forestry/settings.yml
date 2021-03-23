@@ -9,6 +9,8 @@ sections:
   label: HomePage
   create: all
   match: "**/*"
+  templates:
+  - home-index
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''

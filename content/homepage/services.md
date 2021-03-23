@@ -8,7 +8,7 @@ Queremos que todos nuestros clientes puedan experimentar el nivel de profesional
 
 ***
 
-## Nutrition Coaching
+## Ejemplo de titular
 
 This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
 

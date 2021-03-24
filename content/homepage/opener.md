@@ -1,7 +1,7 @@
 ---
 title: Sobre nosotros
 weight: "1"
-headless: true
+headless: false
 
 ---
 # TODO SOBRE ASTURLIMPIEZAS

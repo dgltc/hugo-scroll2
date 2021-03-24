@@ -1,7 +1,7 @@
 ---
 title: Trabaja con nosotros
 weight: "6"
-header_menu: true
+header_menu: false
 
 ---
 ![](/uploads/6.jpg)

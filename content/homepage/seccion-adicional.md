@@ -1,5 +1,4 @@
 +++
-draft = true
 header_menu = true
 title = "Seccion adicional"
 weight = "7"
